@@ -8,3 +8,4 @@ title: DeskBridge
 
 - [隐私政策 / Privacy Policy](privacy/)
 - [技术支持 / Support](support/)
+- [演示视频 / Demo video](demo.mp4)
